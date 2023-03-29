@@ -12,4 +12,10 @@ diante de tal fato, podemos utilizar estes links no "src" Java na parte de requi
 - https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/TopTVs.json
 - https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/MostPopularMovies.json
 - https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/MostPopularTVs.json
+<<<<<<< HEAD
 🐈‍⬛
+=======
+
+<img src="https://cdn.discordapp.com/attachments/821506812842868766/1090403660493754510/image.png" alt="This is the alt tag." />
+
+>>>>>>> e572a90d5f03dd84768f5bab6cdc3bcb390bb2f1
